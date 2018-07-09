@@ -8,7 +8,7 @@ network={
     psk="my wifi password"
 }
 ```
-Save the edits to the file using `control-x`, `y`, and `enter`.
+Save the edits to the file using `control-x`, `y`, and `enter`. Or hit ESC and enter `:wq` to save and quit or `:q!` for quit without saving.
 
 Helpful tip:  Add a couple "blank" networks to the file (see screenshot below), so that if you ever need to add new wifi networks while on-the-road, the process will be much faster and easier.  You'll only need to edit the network name and password then...instead of needing to type in the whole string of the template. 
 
